@@ -1,12 +1,27 @@
-# README
+# 📊 Análisis de Ventas de Coches con Pandas
 
-## Descripción
-Este script en Python utiliza la librería `pandas` para crear y analizar un conjunto de datos de ventas de coches. Calcula comisiones por venta y genera estadísticas resumidas por vendedor.
+Este proyecto es un script en Python que analiza un conjunto de datos de ventas de coches, calcula comisiones por venta y genera estadísticas agregadas por vendedor.
 
-## Requisitos
+## 🚀 Características
+
+- Creación de un dataset de ventas
+- Cálculo automático de comisiones
+- Agrupación de datos por vendedor
+- Métricas calculadas:
+  - Coches vendidos
+  - Total de ingresos
+  - Promedio de venta
+  - Total de comisiones
+  - Ticket promedio
+- Ordenamiento de resultados por ingresos
+
+---
+
+## 🧠 Tecnologías utilizadas
+
 - Python 3
-- pandas
+- Pandas
 
-Instalación:
-```bash
-pip install pandas
+---
+
+## 📁 Estructura del proyecto
