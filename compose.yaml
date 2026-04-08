@@ -1,0 +1,6 @@
+services:
+  nose:
+    image: nose
+    build:
+      context: .
+      dockerfile: ./Dockerfile
